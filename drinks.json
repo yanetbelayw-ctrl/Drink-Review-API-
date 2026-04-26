@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Mojito",
+    "type": "Cocktail",
+    "ingredients": ["White Rum", "Lime Juice", "Fresh Mint", "Sugar", "Soda Water"],
+    "alcoholContent": 12,
+    "servingSize": 250,
+    "glassType": "Highball Glass",
+    "rating": 4.5,
+    "review": "Refreshing classic Cuban cocktail. Perfect balance of sweet, citrus, and mint flavors.",
+    "price": 8.99,
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Espresso Martini",
+    "type": "Cocktail",
+    "ingredients": ["Vodka", "Coffee Liqueur", "Fresh Espresso", "Sugar Syrup"],
+    "alcoholContent": 18,
+    "servingSize": 150,
+    "glassType": "Martini Glass",
+    "rating": 4.8,
+    "review": "Smooth and energizing cocktail. The perfect after-dinner drink with a beautiful crema top.",
+    "price": 12.99,
+    "createdAt": "2024-01-16T14:20:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Green Smoothie",
+    "type": "Non-Alcoholic",
+    "ingredients": ["Spinach", "Banana", "Apple Juice", "Greek Yogurt", "Honey"],
+    "alcoholContent": 0,
+    "servingSize": 350,
+    "glassType": "Tall Glass",
+    "rating": 4.2,
+    "review": "Healthy and delicious breakfast smoothie. Creamy texture with natural sweetness.",
+    "price": 6.99,
+    "createdAt": "2024-01-17T08:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Old Fashioned",
+    "type": "Cocktail",
+    "ingredients": ["Bourbon Whiskey", "Angostura Bitters", "Sugar Cube", "Water", "Orange Peel"],
+    "alcoholContent": 25,
+    "servingSize": 120,
+    "glassType": "Rocks Glass",
+    "rating": 4.7,
+    "review": "Timeless whiskey cocktail. Strong, sophisticated, and beautifully simple.",
+    "price": 14.99,
+    "createdAt": "2024-01-18T18:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Fresh Orange Juice",
+    "type": "Non-Alcoholic",
+    "ingredients": ["Fresh Oranges"],
+    "alcoholContent": 0,
+    "servingSize": 300,
+    "glassType": "Tumbler",
+    "rating": 4.0,
+    "review": "Classic fresh-squeezed orange juice. Sweet, tangy, and full of vitamin C.",
+    "price": 4.99,
+    "createdAt": "2024-01-19T07:30:00.000Z"
+  }
+]
